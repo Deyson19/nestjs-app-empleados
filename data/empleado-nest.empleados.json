@@ -1,0 +1,75 @@
+[{
+  "_id": {
+    "$oid": "673f6aff8ed46cf8e027a342"
+  },
+  "nombre": "Juan",
+  "apellido": "Pérez",
+  "correoElectronico": "juan.perez@example.com",
+  "telefono": "123-456-7890",
+  "departamento": "Ventas",
+  "cargo": "Gerente de Ventas",
+  "fechaIngreso": "2024-01-15",
+  "salario": 45000,
+  "activo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673f6b528ed46cf8e027a345"
+  },
+  "nombre": "Ana",
+  "apellido": "Gómez",
+  "correoElectronico": "ana.gomez@example.com",
+  "telefono": "321-654-9870",
+  "departamento": "Recursos Humanos",
+  "cargo": "Especialista en Recursos Humanos",
+  "fechaIngreso": "2023-03-10",
+  "salario": 42000,
+  "activo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673f6b5f8ed46cf8e027a348"
+  },
+  "nombre": "Carlos",
+  "apellido": "Rodríguez",
+  "correoElectronico": "carlos.rodriguez@example.com",
+  "telefono": "456-789-1230",
+  "departamento": "Tecnología",
+  "cargo": "Desarrollador de Software",
+  "fechaIngreso": "2022-07-22",
+  "salario": 60000,
+  "activo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673f6b698ed46cf8e027a34b"
+  },
+  "nombre": "María",
+  "apellido": "López",
+  "correoElectronico": "maria.lopez@example.com",
+  "telefono": "789-012-3456",
+  "departamento": "Marketing",
+  "cargo": "Coordinadora de Marketing",
+  "fechaIngreso": "2021-09-15",
+  "salario": 48000,
+  "activo": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673f6b738ed46cf8e027a34e"
+  },
+  "nombre": "Luis",
+  "apellido": "Martínez",
+  "correoElectronico": "luis.martinez@example.com",
+  "telefono": "987-654-3210",
+  "departamento": "Finanzas",
+  "cargo": "Analista Financiero",
+  "fechaIngreso": "2020-11-03",
+  "salario": 52000,
+  "activo": true,
+  "__v": 0
+}]

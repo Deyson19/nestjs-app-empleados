@@ -1,0 +1,6 @@
+_id,nombre,apellido,correoElectronico,telefono,departamento,cargo,fechaIngreso,salario,activo,__v
+673f6aff8ed46cf8e027a342,Juan,Pérez,juan.perez@example.com,123-456-7890,Ventas,Gerente de Ventas,2024-01-15,45000,true,0
+673f6b528ed46cf8e027a345,Ana,Gómez,ana.gomez@example.com,321-654-9870,Recursos Humanos,Especialista en Recursos Humanos,2023-03-10,42000,true,0
+673f6b5f8ed46cf8e027a348,Carlos,Rodríguez,carlos.rodriguez@example.com,456-789-1230,Tecnología,Desarrollador de Software,2022-07-22,60000,true,0
+673f6b698ed46cf8e027a34b,María,López,maria.lopez@example.com,789-012-3456,Marketing,Coordinadora de Marketing,2021-09-15,48000,true,0
+673f6b738ed46cf8e027a34e,Luis,Martínez,luis.martinez@example.com,987-654-3210,Finanzas,Analista Financiero,2020-11-03,52000,true,0
