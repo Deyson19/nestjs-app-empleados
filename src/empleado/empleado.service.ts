@@ -11,6 +11,8 @@ import { InjectModel } from '@nestjs/mongoose';
 
 @Injectable()
 export class EmpleadoService {
+  //*Modelo => clase para acceder a los recursos de una colección
+  //*Decorador: palabra clave que indica un comportamiento de una clase.
   constructor(
     @InjectModel(Empleado.name) private empleadoModel: Model<Empleado>,
   ) {}
